@@ -1,0 +1,27 @@
+Circuit: * C:\Users\rockg\Desktop\For Tesla coil\Simulation\Feedback tesla coil\Feedback tesla coil.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 1.00202e-13 to 6.93988e-11
+
+Date: Mon May 22 23:11:53 2023
+Total elapsed time: 1.194 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 357085
+traniter = 357072
+tranpoints = 140511
+accept = 101393
+rejected = 39119
+matrix size = 28
+fillins = 6
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1:     107 opcodes  0.3/[0.2]/0.3
+Matrix Compiler2: off  [0.2]/0.3/0.3
+
