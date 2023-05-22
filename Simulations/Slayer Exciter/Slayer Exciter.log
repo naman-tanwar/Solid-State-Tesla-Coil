@@ -1,0 +1,26 @@
+Circuit: * C:\Users\rockg\Desktop\For Tesla coil\Simulation\Slayer Exciter\Slayer Exciter.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+.OP point found by inspection.
+
+Date: Mon May 22 23:20:53 2023
+Total elapsed time: 0.185 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 26099
+traniter = 26099
+tranpoints = 7859
+accept = 5501
+rejected = 2358
+matrix size = 9
+fillins = 4
+solver = Normal
+Avg thread counts: 1.0/1.1/1.1/1.0
+Matrix Compiler1:      58 opcodes  0.2/[0.1]/0.2
+Matrix Compiler2:      68 opcodes  0.1/[0.1]/0.1
+

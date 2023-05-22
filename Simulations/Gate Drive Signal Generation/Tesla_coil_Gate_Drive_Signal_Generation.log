@@ -1,0 +1,30 @@
+Circuit: * C:\Users\rockg\Desktop\For Tesla coil\Simulation\Gate Drive Signal Generation\Tesla_coil_Gate_Drive_Signal_Generation.asc
+
+WARNING: Less than two connections to node drive2.  This node is used by a4.
+WARNING: Less than two connections to node drive1.  This node is used by a8.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 1.03972e-07 to 1.09972e-07
+Heightened Def Con from 0.00333693 to 0.00333693
+Heightened Def Con from 0.0057424 to 0.0057424
+Heightened Def Con from 0.00814787 to 0.00814787
+Heightened Def Con from 0.0105533 to 0.0105533
+Heightened Def Con from 0.0129588 to 0.0129588
+
+Date: Mon May 22 23:26:45 2023
+Total elapsed time: 3.079 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 918354
+traniter = 918340
+tranpoints = 192597
+accept = 153394
+rejected = 39209
+matrix size = 38
+fillins = 0
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1:      65 opcodes  0.2/[0.2]/0.2
+Matrix Compiler2: 2.06 KB object code size  0.2/0.3/[0.2]
+

@@ -1,0 +1,94 @@
+Circuit: * C:\Users\rockg\Desktop\For Tesla coil\Simulation\Music Input\MusicSignaltoPWM.asc
+
+Instance "m:u1:5": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:5": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:6": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00100083
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+Gmin = 0.00100083
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 28.0303%
+vernier = 0.0625
+Source Step = 27.6989%
+Source Step = 28.1723%
+Source Step = 28.6458%
+Source Step = 29.1193%
+Source Step = 29.5928%
+vernier = 0.0234375
+Source Step = 30.2557%
+Source Step = 30.9659%
+Source Step = 31.6761%
+Source Step = 32.3864%
+Source Step = 33.0966%
+vernier = 0.0351562
+Source Step = 34.0554%
+Source Step = 35.1207%
+Source Step = 36.1861%
+Source Step = 37.2514%
+Source Step = 38.3168%
+vernier = 0.0527344
+Source Step = 39.7017%
+Source Step = 41.2997%
+Source Step = 42.8977%
+Source Step = 44.4957%
+Source Step = 46.0937%
+vernier = 0.0791016
+Source Step = 48.0913%
+Source Step = 50.4883%
+Source Step = 52.8853%
+Source Step = 55.2823%
+Source Step = 57.6793%
+vernier = 0.118652
+Source Step = 60.5558%
+Source Step = 64.1513%
+Source Step = 67.7468%
+Source Step = 71.3423%
+Source Step = 74.9379%
+vernier = 0.177979
+Source Step = 79.0727%
+Source Step = 84.466%
+Source Step = 89.8593%
+Source Step = 95.2526%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Mon May 22 23:07:43 2023
+Total elapsed time: 0.223 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 14129
+traniter = 11046
+tranpoints = 3893
+accept = 2976
+rejected = 917
+matrix size = 78
+fillins = 64
+solver = Normal
+Avg thread counts: 1.1/1.2/1.2/1.1
+Matrix Compiler1: 6.30 KB object code size  1.2/0.7/[0.5]
+Matrix Compiler2: 7.59 KB object code size  0.6/0.6/[0.5]
+
