@@ -3,7 +3,7 @@
 
 ## Introduction
 Solid State Tesla Coil uses transistor-based switching devices (instead of Spark Gap) to resonate the secondary coil with or without feedback. 
-The both kinds of circuits (with and without feedback) were designed and tested.
+The both kinds of circuits (with and without feedback) were designed and implemented.
 The features of the SSTC are:
 1. Feedback and without feedback Circuits
 2. Variable duty cycle Interrupter
