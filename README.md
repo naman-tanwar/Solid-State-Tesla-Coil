@@ -1,2 +1,2 @@
 # Solid State Tesla Coil
-![N|Solid](https://github.com/naman-tanwar/Solid-State-Tesla-Coil/blob/main/Photos/1.jpg)
+![N|TeslaCoil](https://live.staticflickr.com/65535/52919227912_23c6762279_h.jpg)
