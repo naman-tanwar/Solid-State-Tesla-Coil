@@ -32,4 +32,6 @@ A PCB was also designed using Altium. The PCB is a 4 layer board with 100mm x 10
 The features of the PCB are:
 1. It uses tunable non-feedback ciruit
 2. Can also play music. The music input can be given using 3.5mm mobile AUX cable.
-3. Circuit is tested with voltages from 12V to 15V
+3. Circuit is tested with voltages from 12V to 15V  
+<br>
+The gerber files, Bill Of Material (BOM), Altium project files and other related documents are available to download from this page.
