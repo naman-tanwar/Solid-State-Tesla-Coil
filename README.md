@@ -26,3 +26,10 @@ Using Fusion 360, the coil holder was designed. The files for the holder can als
 ### Circuit Design
 As described in the Introduction section, the different circuits were designed to incoperate all the features. Before actually implementing tho, these were simulated using LTSpice. <br>
 The Complete circuit diagram and all the simulation files are available on this page.
+
+### PCB Design
+A PCB was also designed using Altium. The PCB is a 4 layer board with 100mm x 100mm dimentions. All generic parts THT parts were used in this design.
+The features of the PCB are:
+1. It uses tunable non-feedback ciruit
+2. Can also play music. The music input can be given using 3.5mm mobile AUX cable.
+3. Circuit is tested with voltages from 12V to 15V
