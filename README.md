@@ -22,3 +22,7 @@ Around 1200 turns of described wire was winded.  <br>
 The top load was 3D printed in two halves and then aluminium tape was wrapped around it. The tape was wrapped with as much wrinkles as possible to reduce charge loss. The 3D files are availabe to download on this github page  <br>
 5. 3D printed holder for coils  <br>
 Using Fusion 360, the coil holder was designed. The files for the holder can also be downloaded from this github page.  <br>
+
+### Circuit Design
+As described in the Introduction section, the different circuits were designed to incoperate all the features. Before actually implementing tho, these were simulated using LTSpice. <br>
+The Complete circuit diagram and all the simulation files are available on this page.
