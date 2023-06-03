@@ -1,5 +1,5 @@
 # Solid State Tesla Coil (SSTC)
-![N|TeslaCoil](https://live.staticflickr.com/65535/52919984034_5087448f26_b.jpg)
+![N|TeslaCoil](https://live.staticflickr.com/65535/52947429265_d10378278a_b.jpg)
 
 ## Introduction
 Solid State Tesla Coil uses transistor-based switching devices (instead of Spark Gap) to resonate the secondary coil with or without feedback. 
