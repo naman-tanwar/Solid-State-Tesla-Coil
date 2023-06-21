@@ -28,7 +28,9 @@ As described in the Introduction section, the different circuits were designed t
 The Complete circuit diagram and all the simulation files are available on this page.
 
 ### PCB Design
-A PCB was also designed using Altium. The PCB is a 4 layer board with 100mm x 100mm dimensions. All generic parts THT parts were used in this design.
+![N|TeslaCoilPCB](https://live.staticflickr.com/65535/52990649899_db8dc96045_b.jpg)
+
+A PCB was designed using Altium. The PCB is a 4 layer board with 100mm x 100mm dimensions. All generic parts THT parts were used in this design.
 The features of the PCB are:
 1. It uses tuneable non-feedback circuit
 2. Can also play music. The music input can be given using 3.5mm mobile AUX cable.
