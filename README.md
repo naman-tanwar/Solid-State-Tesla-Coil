@@ -1,3 +1,5 @@
+This project is published in IEEE Access, do check the complete article: [10.1109/ACCESS.2024.3357534](https://doi.org/10.1109/ACCESS.2024.3357534)
+
 # Solid State Tesla Coil (SSTC)
 ![N|TeslaCoil](https://live.staticflickr.com/65535/52947429265_d10378278a_b.jpg)
 
